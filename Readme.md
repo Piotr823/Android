@@ -7,6 +7,6 @@
 
 ## Changelog:
 
-####- 11.11.2022 - poprawa zadania 1 na 4.0
+#### - 11.11.2022 - poprawa zadania 1 na 4.0
 
-####- 31.10.2022 - dodanie zadania 1(docker) na 3.0
+#### - 31.10.2022 - dodanie zadania 1(docker) na 3.0

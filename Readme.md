@@ -8,8 +8,12 @@
 
 ### zadanie 3 - kalkulator - 4.0
 
+### zadanie 4 - lista zadań - 3.5
+
 
 ## Changelog:
+
+#### - 01.12.2022 - dodanie zadania 4 na 3.5
 
 #### - 25.11.2022(godzina 00:59) - dodanie zadania 2 na 4.5
 

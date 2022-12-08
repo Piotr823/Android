@@ -10,8 +10,15 @@
 
 ### zadanie 4 - lista zadań - 3.5
 
+### zadanie 5 - zakupy - 3.5(lub 4.0?)
+
+### zadanie 6 - baza danych - 3.0
+
 
 ## Changelog:
+
+#### - 08.12.2022 - dodanie zadania 6 na 3.0
+		  - dodanie zadania 5 na 3.5(lub na 4.0?)
 
 #### - 01.12.2022 - dodanie zadania 4 na 3.5
 

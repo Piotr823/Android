@@ -14,8 +14,13 @@
 
 ### zadanie 6 - baza danych - 3.0
 
+### zadanie 7 - sieć - 4.0
+
 
 ## Changelog:
+
+#### - 29.12.2022
+    - dodanie zadania 7 na 4.0
 
 #### - 08.12.2022
     - dodanie zadania 6 na 3.0

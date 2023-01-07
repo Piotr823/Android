@@ -16,8 +16,13 @@
 
 ### zadanie 7 - sieć - 4.0
 
+### zadanie 8 - logowanie i rejestracja - 3.5
+
 
 ## Changelog:
+
+#### - 07.01.2023
+	- dodanie zadania 8 na 3.5
 
 #### - 29.12.2022
     - dodanie zadania 7 na 4.0
